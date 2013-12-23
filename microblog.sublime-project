@@ -1,0 +1,11 @@
+{
+	"settings":
+	{
+		"extra_paths":
+		[
+			"/home/jchen/Documents/git/microblog/flask/lib/python2.7/site-packages/",
+			"/home/jchen/Documents/git/microblog/app"
+		],
+		"python_interpreter": "/home/jchen/Documents/git/microblog/flask/bin/python"
+	}
+}
