@@ -1,11 +1,19 @@
 {
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
 	"settings":
 	{
+		"rulers": [79],
 		"extra_paths":
 		[
 			"/home/jchen/Documents/git/microblog/flask/lib/python2.7/site-packages/",
 			"/home/jchen/Documents/git/microblog/app"
 		],
 		"python_interpreter": "/home/jchen/Documents/git/microblog/flask/bin/python"
-	}
+	},
 }
