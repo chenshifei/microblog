@@ -1,9 +1,9 @@
 {
     "Python": {
-        "python": '~/.virtualenvs/flask/bin/python',
+        "python": '~/Documents/GIT/microblog/flask/bin/python',
         "pythonExtraPaths": [
-        	'~/.virtualenvs/flask/lib/python2.7/site-packages',
-        	'app',
+        	'~/Documents/GIT/microblog/flask/lib/python2.7/site-packages',
+        	'~/Documents/GIT/microblog/app'
         ]
-    },
+    }
 }
