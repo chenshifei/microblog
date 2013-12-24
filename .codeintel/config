@@ -1,0 +1,9 @@
+{
+    "Python": {
+        "python": '~/.virtualenvs/flask/bin/python',
+        "pythonExtraPaths": [
+        	'~/.virtualenvs/flask/lib/python2.7/site-packages',
+        	'app',
+        ]
+    },
+}

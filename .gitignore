@@ -37,3 +37,6 @@ nosetests.xml
 
 # Sublime Text 3
 *.sublime-workspace
+
+# VirtualEnv
+flask
