@@ -40,3 +40,10 @@ nosetests.xml
 
 # VirtualEnv
 flask
+
+# Databaes
+app.db
+search.db/*
+
+# Temp files
+tmp
