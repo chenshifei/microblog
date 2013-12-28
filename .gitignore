@@ -41,7 +41,7 @@ nosetests.xml
 # VirtualEnv
 flask
 
-# Databaes
+# Databases
 app.db
 search.db/*
 
