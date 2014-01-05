@@ -47,3 +47,6 @@ search.db/*
 
 # Temp files
 tmp
+
+# Compiled translation files
+*.mo

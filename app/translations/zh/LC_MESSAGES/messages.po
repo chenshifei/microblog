@@ -1,0 +1,176 @@
+# Chinese translations for PROJECT.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2014-01-05 20:18+0800\n"
+"PO-Revision-Date: 2014-01-05 20:31+0800\n"
+"Last-Translator: John Chen <chenshifei.j@gmail.com>\n"
+"Language-Team: zh <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: app/forms.py:26
+msgid ""
+"This nickname has invalid characters. Please use letters, numbers, dots and "
+"underscores only."
+msgstr "这个昵称中含有无效字符。请仅包含字母、数字、点和下划线。"
+
+#: app/forms.py:30
+msgid "This nickname is already in use. Please choose another one."
+msgstr "这个昵称已经被使用了。请选择其他的昵称。"
+
+#: app/views.py:84
+msgid "Invalid login. Please try again."
+msgstr "登陆无效。请再试一次。"
+
+#: app/templates/404.html:5
+msgid "File Not Found"
+msgstr "找不到文件"
+
+#: app/templates/404.html:6 app/templates/500.html:7
+msgid "Back"
+msgstr "后退"
+
+#: app/templates/500.html:5
+msgid "An unexpected error has occurred"
+msgstr "发生了意料之外的错误"
+
+#: app/templates/500.html:6
+msgid "The administrator has been notified. Sorry for the inconvenience!"
+msgstr "已经通知了管理员。带来的不便请多包涵！"
+
+#: app/templates/base.html:32
+msgid "Home"
+msgstr "首页"
+
+#: app/templates/base.html:34
+msgid "Your Profile"
+msgstr "你的账户"
+
+#: app/templates/base.html:35
+msgid "Logout"
+msgstr "登出"
+
+#: app/templates/base.html:41
+msgid "Search"
+msgstr "搜索"
+
+#: app/templates/edit.html:5
+msgid "Edit Your Profile"
+msgstr "编辑你的账户"
+
+#: app/templates/edit.html:11
+msgid "Your nickname:"
+msgstr "你的昵称："
+
+#: app/templates/edit.html:18
+msgid "About yourself:"
+msgstr "你的简介："
+
+#: app/templates/edit.html:25
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: app/templates/follower_email.html:1
+#, python-format
+msgid "Dear %(nickname)s,"
+msgstr "尊敬的 %(nickname)s："
+
+#: app/templates/follower_email.html:2
+#, python-format
+msgid "%(nickname)s is now a follower."
+msgstr "%(nickname)s已关注你。"
+
+#: app/templates/follower_email.html:12
+msgid "Regards,"
+msgstr "此致，"
+
+#: app/templates/follower_email.html:13
+msgid "The <code>microblog</code> admin"
+msgstr "<code>microblog</code>团队"
+
+#: app/templates/index.html:5
+#, python-format
+msgid "Hi, %(nickname)s!"
+msgstr "你好，%(nickname)s！"
+
+#: app/templates/index.html:11
+msgid "Say something:"
+msgstr "说些什么吧："
+
+#: app/templates/index.html:18
+msgid "Post!"
+msgstr "发送！"
+
+#: app/templates/index.html:27 app/templates/index.html:29
+#: app/templates/user.html:28 app/templates/user.html:30
+msgid "Newer posts"
+msgstr "新的推文"
+
+#: app/templates/index.html:32 app/templates/index.html:34
+#: app/templates/user.html:33 app/templates/user.html:35
+msgid "Older posts"
+msgstr "旧的推文"
+
+#: app/templates/login.html:20
+msgid "Please Sign In"
+msgstr "请登录"
+
+#: app/templates/login.html:23
+msgid "Click on your OpenID provider below:"
+msgstr "点击使用以下网站的OpenID帐号："
+
+#: app/templates/login.html:30
+msgid "Or enter your OpenID here:"
+msgstr "或在此输入你的OpenID："
+
+#: app/templates/login.html:38
+msgid "Remember Me"
+msgstr "记住我"
+
+#: app/templates/login.html:42
+msgid "Sign In"
+msgstr "登录"
+
+#: app/templates/post.html:6
+#, python-format
+msgid "%(nickname)s said %(when)s:"
+msgstr "%(nickname)s %(when)s说:"
+
+#: app/templates/search_results.html:4
+#, python-format
+msgid "Search results for \"%(query)s\":"
+msgstr "“%(query)s”的搜索结果："
+
+#: app/templates/user.html:12
+msgid "Last seen on:"
+msgstr "上次登录："
+
+#: app/templates/user.html:13
+msgid "Followers:"
+msgstr "粉丝："
+
+#: app/templates/user.html:13
+msgid "Following:"
+msgstr "关注者："
+
+#: app/templates/user.html:15
+msgid "Edit your profile"
+msgstr "编辑你的账户"
+
+#: app/templates/user.html:17
+msgid "Follow"
+msgstr "关注"
+
+#: app/templates/user.html:19
+msgid "Unfollow"
+msgstr "取消关注"
